@@ -27,6 +27,10 @@ v
 Mongo Express UI (Port 30000)
 
 ````
+## 🏗️ Architecture Diagram
+
+![Architecture](./digram.png)
+
 
 ---
 
