@@ -98,6 +98,14 @@ http://<Node-IP>:30000
 
 ---
 
+## 🔄 Port Forwarding (If You Cannot Access the Application)
+
+If you are unable to access the frontend, backend, or Mongo Express through NodePort/Ingress, you can use **kubectl port-forward** to access your services locally.
+
+### ⭐ Frontend Port Forwarding
+```bash
+kubectl port-forward deployment/frontend 8080:80
+
 ## 🧪 Test Application
 
 ### **Check backend API**
