@@ -79,6 +79,8 @@ kubectl apply -f screat.yml
 kubectl apply -f configmap.yaml
 kubectl apply -f backend/
 kubectl apply -f frontend/
+OR
+kubectl apply -f .
 ````
 
 ### **Step 2 — Confirm Pods & Services**
@@ -124,14 +126,6 @@ k8s-frontend-backend-project/
 
 ---
 
-## 🏗️ Improvements You Can Add Later
-
-* Ingress + SSL
-* Horizontal Pod Autoscaling
-* Prometheus + Grafana monitoring
-* CI/CD pipeline (Jenkins / GitHub Actions)
-
----
 
 ## ❤️ Author
 
