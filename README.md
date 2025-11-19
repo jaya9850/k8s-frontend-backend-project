@@ -34,13 +34,13 @@ Mongo Express UI (Port 30000)
 
 ### ✅ **Mongo Express Home Page**
 
-![Mongo Express Screenshot](/mnt/data/Screenshot 2025-11-17 141810.png)
+Screenshot 2025-11-17 141810.png
 
 ---
 
 ### 📂 **Collection View (users collection)**
 
-![Mongo Collection Screenshot](/mnt/data/Screenshot 2025-11-17 142446.png)
+
 
 ---
 
